@@ -17,9 +17,7 @@
 
 Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization, network configuration, cloud storage, compute, and multi-cloud architecture.
 
-### ☁️ Cloud Infrastructure Project  
-Created a multi-cloud migration plan and architecture spanning AWS, Azure, and GCP.  
-👉 **View Project:** (ADD LINK HERE)
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Cloud-Labs)
 
 ---
 
@@ -29,9 +27,8 @@ Created a multi-cloud migration plan and architecture spanning AWS, Azure, and G
 
 Hands-on networking projects focused on routing, switching, IP addressing, subnetting, and secure connectivity using AWS cloud networking tools.
 
-### 🔐 AWS Site-to-Site VPN Configuration Lab  
-Configured a Virtual Private Gateway, Customer Gateway, and IPSec Site-to-Site VPN connection to simulate secure enterprise connectivity.  
-👉 **View Project:** (ADD LINK HERE)
+👉 **View all Networking Projects:** (ADD LINK TO NETWORKING PROJECT PAGE HERE)
+
 
 ---
 
@@ -41,9 +38,8 @@ Configured a Virtual Private Gateway, Customer Gateway, and IPSec Site-to-Site V
 
 Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
 
-### 🛠️ System Troubleshooting & Diagnostics Report  
-Performed OS-level and hardware troubleshooting, diagnostics, and documentation of findings.  
-👉 **View Project:** (ADD LINK HERE)
+👉 **View all Troubleshooting Projects:** (ADD LINK TO TROUBLESHOOTING PROJECT PAGE HERE)
+
 
 ---
 
@@ -53,14 +49,10 @@ Performed OS-level and hardware troubleshooting, diagnostics, and documentation 
 
 Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
 
-### 🧰 Linux Administration & Command-Line Lab  
-Configured users, permissions, directories, and system utilities while practicing command-line administration.  
-👉 **View Project:** (ADD LINK HERE)
+👉 **View all Linux Projects:** (ADD LINK TO LINUX PROJECT PAGE HERE)
 
 ---
 
 
-## 🖥️ Cloud Infrastructure Projects
-CMIT 326 project creating a multi-cloud setup and migration plan across AWS, Azure, and GCP.
 
-➡ [View Cloud Labs](https://github.com/Pelumi-Johnson/Cloud-Labs)
+
