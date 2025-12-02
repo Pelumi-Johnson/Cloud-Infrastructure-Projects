@@ -1,8 +1,66 @@
-# 🟧 UMGC Academic Projects
+<!-- Banner -->
+<h1 align="left">🎓 UMGC Academic Projects</h1>
+<p align="left">Hands-on Networking, Cloud, Linux, and Cybersecurity projects completed as part of UMGC’s Cybersecurity Technology program.</p>
+
 ---
+
+## 📘 Table of Contents
+- [CMIT 326 – Cloud Technologies](https://github.com/Pelumi-Johnson/Cloud-Labs)
+- [CMIT 265 – Fundamentals of Networking](#-cmit-265--fundamentals-of-networking)
+- [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
+- [CMIT 291 – Introduction to Linux](#-cmit-291--introduction-to-linux)
+---
+
+## 🌐 CMIT 326 – Cloud Technologies
+
+![Badge](https://img.shields.io/badge/Cloud-AWS%20Azure%20GCP-blue?style=for-the-badge)
+
+Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization, network configuration, cloud storage, compute, and multi-cloud architecture.
+
+### ☁️ Cloud Infrastructure Project  
+Created a multi-cloud migration plan and architecture spanning AWS, Azure, and GCP.  
+👉 **View Project:** (ADD LINK HERE)
+
+---
+
+## 🌐 CMIT 265 – Fundamentals of Networking
+
+![Badge](https://img.shields.io/badge/Networking-Routing%20%7C%20Switching-green?style=for-the-badge)
+
+Hands-on networking projects focused on routing, switching, IP addressing, subnetting, and secure connectivity using AWS cloud networking tools.
+
+### 🔐 AWS Site-to-Site VPN Configuration Lab  
+Configured a Virtual Private Gateway, Customer Gateway, and IPSec Site-to-Site VPN connection to simulate secure enterprise connectivity.  
+👉 **View Project:** (ADD LINK HERE)
+
+---
+
+## 🖥️ CMIT 202 – Fundamentals of Computer Troubleshooting
+
+![Badge](https://img.shields.io/badge/Hardware%20%26%20Support-PC%20Repair%20%7C%20Diagnostics-orange?style=for-the-badge)
+
+Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
+
+### 🛠️ System Troubleshooting & Diagnostics Report  
+Performed OS-level and hardware troubleshooting, diagnostics, and documentation of findings.  
+👉 **View Project:** (ADD LINK HERE)
+
+---
+
+## 🐧 CMIT 291 – Introduction to Linux
+
+![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
+
+Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
+
+### 🧰 Linux Administration & Command-Line Lab  
+Configured users, permissions, directories, and system utilities while practicing command-line administration.  
+👉 **View Project:** (ADD LINK HERE)
+
+---
+
+
 ## 🖥️ Cloud Infrastructure Projects
 CMIT 326 project creating a multi-cloud setup and migration plan across AWS, Azure, and GCP.
 
 ➡ [View Cloud Labs](https://github.com/Pelumi-Johnson/Cloud-Labs)
-
----
