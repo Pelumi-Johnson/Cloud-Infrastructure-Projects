@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 Table of Contents
+### 📘 Table of Contents
 - [CMIT 326 – Cloud Technologies](https://github.com/Pelumi-Johnson/Cloud-Labs)
 - [CMIT 265 – Fundamentals of Networking](#-cmit-265--fundamentals-of-networking)
 - [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
@@ -27,7 +27,18 @@ Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization,
 
 Hands-on networking projects focused on routing, switching, IP addressing, subnetting, and secure connectivity using AWS cloud networking tools.
 
-👉 **View all Networking Projects:** (ADD LINK TO NETWORKING PROJECT PAGE HERE)
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-265-Fundamentals-of-Networking/tree/main?tab=readme-ov-file)
+
+
+---
+
+## 🐧 CMIT 291 – Introduction to Linux
+
+![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
+
+Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
+
+👉 **View all Linux Projects:** (ADD LINK TO LINUX PROJECT PAGE HERE)
 
 
 ---
@@ -43,15 +54,9 @@ Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and
 
 ---
 
-## 🐧 CMIT 291 – Introduction to Linux
 
-![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
 
-Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
 
-👉 **View all Linux Projects:** (ADD LINK TO LINUX PROJECT PAGE HERE)
-
----
 
 
 
