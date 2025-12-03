@@ -7,8 +7,9 @@
 ### 📘 Table of Contents
 - [CMIT 326 – Cloud Technologies](#-cmit-326--cloud-technologies)
 - [CMIT 265 – Fundamentals of Networking](#-cmit-265--fundamentals-of-networking)
-- [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
 - [CMIT 291 – Introduction to Linux](#-cmit-291--introduction-to-linux)
+- [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
+
 ---
 
 ## 🌐 CMIT 326 – Cloud Technologies
