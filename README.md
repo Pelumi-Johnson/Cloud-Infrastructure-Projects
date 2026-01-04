@@ -39,7 +39,7 @@ Hands-on networking projects focused on routing, switching, IP addressing, subne
 
 Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
 
-👉 **View all Linux Projects:** (ADD LINK TO LINUX PROJECT PAGE HERE)
+👉 [**View all Linux Projects**](https://github.com/Pelumi-Johnson/CMIT-291-Introduction-to-Linux/tree/main?tab=readme-ov-file)
 
 
 ---
