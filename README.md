@@ -50,7 +50,7 @@ Linux administration tasks including file system navigation, user management, pe
 
 Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
 
-👉 **View all Troubleshooting Projects:** (ADD LINK TO TROUBLESHOOTING PROJECT PAGE HERE)
+👉 [**View all Troubleshooting Projects**](https://github.com/Pelumi-Johnson/CMIT-202-Fundamentals-of-Computer-Troubleshooting-/tree/main)
 
 
 ---
