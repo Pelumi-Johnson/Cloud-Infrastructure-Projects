@@ -22,7 +22,7 @@ Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization,
 
 ---
 
-## 🌐 CMIT 265 – Fundamentals of Networking
+## 🕸️ CMIT 265 – Fundamentals of Networking
 
 ![Badge](https://img.shields.io/badge/Networking-Routing%20%7C%20Switching-green?style=for-the-badge)
 
