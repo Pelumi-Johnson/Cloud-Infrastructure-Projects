@@ -7,6 +7,7 @@
 ### 📘 Table of Contents
 - [CMIT 326 – Cloud Technologies](#-cmit-326--cloud-technologies)
 - [CMIT 265 – Fundamentals of Networking](#-cmit-265--fundamentals-of-networking)
+- [CMIT 320 - Network Security](#-cmit-320--network-security)
 - [CMIT 291 – Introduction to Linux](#-cmit-291--introduction-to-linux)
 - [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
 
@@ -30,6 +31,16 @@ Hands-on networking projects focused on routing, switching, IP addressing, subne
 
 👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-265-Fundamentals-of-Networking/tree/main?tab=readme-ov-file)
 
+
+---
+
+## 🕸️ CMIT 320 – Network Security
+
+![Badge](https://img.shields.io/badge/Networking-Routing%20%7C%20Switching-green?style=for-the-badge)
+
+Hands-on networking projects focused on routing, switching, IP addressing, subnetting, and secure connectivity using AWS cloud networking tools.
+
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-265-Fundamentals-of-Networking/tree/main?tab=readme-ov-file)
 
 ---
 
