@@ -40,7 +40,7 @@ Hands-on networking projects focused on routing, switching, IP addressing, subne
 
 Hands-on network security projects focused on traffic control, segmentation, subnetting, monitoring, and secure connectivity using firewalls and AWS cloud networking security tools.
 
-👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-265-Fundamentals-of-Networking/tree/main?tab=readme-ov-file)
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/Network-security-CMIT-320/blob/main/README.md)
 
 ---
 
