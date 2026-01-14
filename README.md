@@ -36,7 +36,7 @@ Hands-on networking projects focused on routing, switching, IP addressing, subne
 
 ## 🛡️ CMIT 320 – Network Security
 
-![Badge](https://img.shields.io/badge/Network%20Security-Firewalls%20IDS%20IPS-blue?style=for-the-badge)
+![Badge](https://github.com/Pelumi-Johnson/Network-security-CMIT-320/tree/main)
 
 Hands-on network security projects focused on traffic control, segmentation, subnetting, monitoring, and secure connectivity using firewalls and AWS cloud networking security tools.
 
