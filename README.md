@@ -44,6 +44,16 @@ Hands-on network security projects focused on traffic control, segmentation, sub
 
 ---
 
+## ☁️ CMIT 436 – Cloud Security
+
+![Badge](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Encryption-red?style=for-the-badge)
+
+Hands-on network security projects focused on traffic control, segmentation, subnetting, monitoring, and secure connectivity using firewalls and AWS cloud networking security tools.
+
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/Network-security-CMIT-320/tree/main)
+
+---
+
 ## 🐧 CMIT 291 – Introduction to Linux
 
 ![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
