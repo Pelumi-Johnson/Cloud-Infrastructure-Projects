@@ -49,7 +49,7 @@ Hands-on network security projects focused on traffic control, segmentation, sub
 
 ![Badge](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Encryption-red?style=for-the-badge)
 
-Hands-on network security projects focused on traffic control, segmentation, subnetting, monitoring, and secure connectivity using firewalls and AWS cloud networking security tools.
+Hands-on cloud security projects focused on access control, encryption, monitoring, and secure cloud connectivity using IAM, security groups, and AWS security services.
 
 👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/Network-security-CMIT-320/tree/main)
 
