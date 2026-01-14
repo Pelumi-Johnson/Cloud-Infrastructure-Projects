@@ -51,7 +51,7 @@ Hands-on network security projects focused on traffic control, segmentation, sub
 
 Hands-on cloud security projects focused on access control, encryption, monitoring, and secure cloud connectivity using IAM, security groups, and AWS security services.
 
-👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/Network-security-CMIT-320/tree/main)
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-436-Cloud-security/tree/main)
 
 ---
 
