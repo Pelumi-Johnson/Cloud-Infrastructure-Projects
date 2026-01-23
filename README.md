@@ -5,12 +5,44 @@
 ---
 
 ### 📘 Table of Contents
+- [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
+- [CMIT 436 – Cloud Security](#-cmit-436--cloud-security)
+- [CMIT 291 – Introduction to Linux](#-cmit-291--introduction-to-linux)
 - [CMIT 326 – Cloud Technologies](#-cmit-326--cloud-technologies)
 - [CMIT 265 – Fundamentals of Networking](#cmit-265-fundamentals-of-networking)
 - [CMIT 320 – Network Security](#-cmit-320--network-security)
-- [CMIT 436 – Cloud Security](#-cmit-436--cloud-security)
-- [CMIT 291 – Introduction to Linux](#-cmit-291--introduction-to-linux)
-- [CMIT 202 – Fundamentals of Computer Troubleshooting](#️-cmit-202--fundamentals-of-computer-troubleshooting)
+
+
+
+---
+
+## 🖥️ CMIT 202 – Fundamentals of Computer Troubleshooting
+
+![Badge](https://img.shields.io/badge/Hardware%20%26%20Support-PC%20Repair%20%7C%20Diagnostics-orange?style=for-the-badge)
+
+Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
+
+👉 [**View all Troubleshooting Projects**](https://github.com/Pelumi-Johnson/CMIT-202-Fundamentals-of-Computer-Troubleshooting-/tree/main)
+
+---
+
+## ☁️ CMIT 436 – Cloud Security
+
+![Badge](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Encryption-red?style=for-the-badge)
+
+Hands-on cloud security projects focused on access control, encryption, monitoring, and secure cloud connectivity using IAM, security groups, and AWS security services.
+
+👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-436-Cloud-security/tree/main)
+
+---
+
+## 🐧 CMIT 291 – Introduction to Linux
+
+![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
+
+Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
+
+👉 [**View all Linux Projects**](https://github.com/Pelumi-Johnson/CMIT-291-Introduction-to-Linux/tree/main?tab=readme-ov-file)
 
 ---
 
@@ -45,37 +77,6 @@ Hands-on network security projects focused on traffic control, segmentation, sub
 
 ---
 
-## ☁️ CMIT 436 – Cloud Security
-
-![Badge](https://img.shields.io/badge/Cloud%20Security-IAM%20%7C%20Encryption-red?style=for-the-badge)
-
-Hands-on cloud security projects focused on access control, encryption, monitoring, and secure cloud connectivity using IAM, security groups, and AWS security services.
-
-👉 [**View all Networking Projects**](https://github.com/Pelumi-Johnson/CMIT-436-Cloud-security/tree/main)
-
----
-
-## 🐧 CMIT 291 – Introduction to Linux
-
-![Badge](https://img.shields.io/badge/Linux-CLI%20%7C%20Permissions%20%7C%20Scripting-yellow?style=for-the-badge)
-
-Linux administration tasks including file system navigation, user management, permissions, system logs, and shell utilities.
-
-👉 [**View all Linux Projects**](https://github.com/Pelumi-Johnson/CMIT-291-Introduction-to-Linux/tree/main?tab=readme-ov-file)
-
-
----
-
-## 🖥️ CMIT 202 – Fundamentals of Computer Troubleshooting
-
-![Badge](https://img.shields.io/badge/Hardware%20%26%20Support-PC%20Repair%20%7C%20Diagnostics-orange?style=for-the-badge)
-
-Labs covering PC hardware, BIOS configuration, OS installation, diagnostics, and troubleshooting workflows.
-
-👉 [**View all Troubleshooting Projects**](https://github.com/Pelumi-Johnson/CMIT-202-Fundamentals-of-Computer-Troubleshooting-/tree/main)
-
-
----
 
 
 
